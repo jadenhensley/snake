@@ -1,4 +1,4 @@
-# Raycasting Demo
+# Snake
 
 <img src="https://github.com/jadenhensley/snake/blob/main/screenshot.png" width=300 height=300>
 
